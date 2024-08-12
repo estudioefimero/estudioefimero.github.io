@@ -1,0 +1,65 @@
+{
+    "news": [
+      {
+        "title": "Innovación en Arquitectura Sostenible",
+        "date": "2024-08-01",
+        "summary": "Un nuevo enfoque en la arquitectura sostenible está ganando terreno, con proyectos que integran tecnología verde y diseño ecoeficiente."
+      },
+      {
+        "title": "Arquitectura Bioclimática en el Trópico",
+        "date": "2024-07-25",
+        "summary": "La arquitectura bioclimática en regiones tropicales está en auge, buscando soluciones para optimizar la relación entre edificio y clima."
+      },
+      {
+        "title": "Nuevas Tendencias en Diseño Urbano",
+        "date": "2024-07-18",
+        "summary": "El diseño urbano está evolucionando hacia espacios más inclusivos y sostenibles, integrando el verde urbano como elemento central."
+      },
+      {
+        "title": "Materiales Innovadores en la Construcción",
+        "date": "2024-07-10",
+        "summary": "El uso de materiales innovadores, como el concreto reciclado y la madera tecnológica, está transformando la manera en que se construyen los edificios."
+      },
+      {
+        "title": "Arquitectura Modular: Flexibilidad y Eficiencia",
+        "date": "2024-06-30",
+        "summary": "La arquitectura modular se destaca por su capacidad de adaptarse a diversas necesidades y su eficiencia en la construcción."
+      },
+      {
+        "title": "Diseño Contemporáneo en Comunidades Rurales",
+        "date": "2024-06-22",
+        "summary": "Proyectos de arquitectura contemporánea están revitalizando comunidades rurales, respetando su identidad cultural y contexto natural."
+      },
+      {
+        "title": "Edificios de Energía Cero: Una Realidad",
+        "date": "2024-06-15",
+        "summary": "Los edificios de energía cero están dejando de ser un ideal para convertirse en una realidad alcanzable, gracias a la integración de energías renovables."
+      },
+      {
+        "title": "El Futuro de los Espacios de Trabajo",
+        "date": "2024-06-05",
+        "summary": "El diseño de espacios de trabajo se orienta hacia ambientes flexibles y colaborativos, adaptados a las nuevas formas de trabajo remoto."
+      },
+      {
+        "title": "Restauración Arquitectónica: Preservando el Pasado",
+        "date": "2024-05-28",
+        "summary": "La restauración de edificios históricos cobra relevancia, combinando técnicas tradicionales con tecnología moderna para preservar el patrimonio."
+      },
+      {
+        "title": "Arquitectura y Bienestar: Espacios que Sanan",
+        "date": "2024-05-20",
+        "summary": "El diseño arquitectónico se centra cada vez más en el bienestar, creando espacios que promueven la salud mental y física."
+      },
+      {
+        "title": "Urbanismo Sostenible: Ciudades del Futuro",
+        "date": "2024-05-12",
+        "summary": "El urbanismo sostenible está moldeando las ciudades del futuro, con un enfoque en movilidad verde y espacios públicos de calidad."
+      },
+      {
+        "title": "Integración de la Naturaleza en el Diseño Urbano",
+        "date": "2024-05-01",
+        "summary": "La integración de la naturaleza en el diseño urbano es clave para crear ciudades más habitables y resilientes."
+      }
+    ]
+  }
+  
